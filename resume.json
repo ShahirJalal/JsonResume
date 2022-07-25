@@ -1,0 +1,115 @@
+{
+    "basics": {
+      "name": "Shahir Jalal",
+      "label": "Programmer",
+      "picture": "",
+      "email": "shahirjalalhazli@gmail.com",
+      "phone": "+6013-387 9365",
+      "website": "http://shahirjalal.com",
+      "summary": "Innovative and passionate Applied Physics graduate from Universiti Teknologi PETRONAS. Aiming to use his knowledge of physics, technology, innovation and business to pursue a career at your company.",
+      "location": {
+        "city": "Kuala Lumpur",
+        "countryCode": "MYS"
+      },
+      "profiles": [
+        {
+          "url": "https://github.com/shahirjalal"
+        },
+        {
+          "url": "https://twitter.com/ThisIsShahir"
+        }
+      ]
+    },
+    "work": [
+      {
+        "company": "IOP Specialist Sdn. Bhd.",
+        "position": "Production Engineer",
+        "website": "https://iops.com.my/",
+        "startDate": "2021-10",
+        "endDate": "2022-02",
+        "summary": "IOP Specialists Sdn Bhd is a High-technological Status company engaged in the production of synthetic iron oxide pigments to support the regional needs. IOP produces and offers high purity Hi-Bi pigment grades using ceramic heat treatment method.",
+        "details": [
+          { "text": "Manage production processes and diagnose problems in the production line.", "comment": "" },
+          { "text": " Ensure the achievement of daily production targets.", "comment": "" },
+          { "text": "Work closely with R&D and QC department on final production output." }
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "CoderDojo",
+        "position": "Teacher",
+        "website": "http://coderdojo.com/",
+        "startDate": "2012",
+        "endDate": "2013",
+        "summary": "Global movement of free coding clubs for young people.",
+        "highlights": [
+          "Awarded 'Teacher of the Month'"
+        ]
+      }
+    ],
+    "education": [
+      {
+        "institution": "Universiti Teknologi PETRONAS",
+        "area": "Applied Physics",
+        "studyType": "Bachelor",
+        "startDate": "2016",
+        "endDate": "2020",
+        "gpa": "",
+        "courses": [
+          "Electromagnetism",
+          "Quantum Mechanics"
+        ]
+      }
+    ],
+    "awards": [
+      {
+        "title": "Gold Medal in Science & Engineering Design Exhibition 2019",
+        "date": "2019",
+        "awarder": "Science & Engineering Design Exhibition",
+        "summary": "Fabricated a supercapacitor using lithium iodide bio-based polymer electrolyte"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Video compression for 3d media",
+        "publisher": "Hooli",
+        "releaseDate": "2014",
+        "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+        "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Web Development",
+        "details": [
+          { "text": "HTML", "comment": "expert" },
+          { "text": "CSS", "comment": "expert" },
+          { "text": "Javascript", "comment": "expert" }
+        ]
+      },
+      {
+        "name": "Compression",
+        "details": [
+          { "text": "Mpeg", "comment": "competent" },
+          { "text": "MP4", "comment": "competent" },
+          { "text": "GIF", "comment": "novice" }
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Wildlife",
+        "keywords": [
+          "Ferrets",
+          "Unicorns"
+        ]
+      }
+    ]
+  }
