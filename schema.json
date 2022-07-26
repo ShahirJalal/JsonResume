@@ -1,0 +1,120 @@
+{
+    "basics": {
+      "name": "Shahir Jalal",
+      "label": "Programmer",
+      "image": "",
+      "email": "shahirjalalhazli@gmail.com",
+      "phone": "+6013 387 9365",
+      "url": "https://shahirjalal.com",
+      "summary": "An innovative and passionate Applied Physics graduate from Universiti Teknologi PETRONAS. Aiming to use his knowledge of physics, technology, innovation and business to pursue a career at your company.",
+      "location": {
+        "address": "",
+        "postalCode": "",
+        "city": "Kuala Lumpur",
+        "countryCode": "MYS",
+        "region": "WP Kuala Lumpur"
+      },
+      "profiles": [{
+        "network": "GitHub",
+        "username": "ShahirJalal",
+        "url": "https://github.com/shahirjalal"
+      }]
+    },
+    "work": [{
+      "name": "IOP Specialists Sdn. Bhd.",
+      "position": "Production Engineer",
+      "url": "https://iops.com.my/",
+      "startDate": "2021-10",
+      "endDate": "2022-02",
+      "summary": "IOP Specialists Sdn Bhd is a High-technological Status company engaged in the production of synthetic iron oxide pigments to support the regional needs. IOP produces and offers high purity Hi-Bi pigment grades using ceramic heat treatment method.",
+      "highlights": [
+        "Manage production processes and diagnose problems in the production line.",
+        "Ensure the achievement of daily production targets.",
+        "Work closely with R&D and QC department on final production output."
+      ]
+    }],
+    "volunteer": [{
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }],
+    "education": [{
+      "institution": "University",
+      "url": "https://institution.com/",
+      "area": "Software Development",
+      "studyType": "Bachelor",
+      "startDate": "2011-01-01",
+      "endDate": "2013-01-01",
+      "score": "4.0",
+      "courses": [
+        "DB1101 - Basic SQL"
+      ]
+    }],
+    "awards": [{
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }],
+    "certificates": [{
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }],
+    "publications": [{
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }],
+    "skills": [{
+      "name": "Web Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "JavaScript"
+      ]
+    }],
+    "languages": [{
+      "language": "English",
+      "fluency": "Native speaker"
+    }],
+    "interests": [{
+      "name": "Wildlife",
+      "keywords": [
+        "Ferrets",
+        "Unicorns"
+      ]
+    }],
+    "references": [{
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }],
+    "projects": [{
+      "name": "Project",
+      "description": "Description…",
+      "highlights": [
+        "Won award at AIHacks 2016"
+      ],
+      "keywords": [
+        "HTML"
+      ],
+      "startDate": "2019-01-01",
+      "endDate": "2021-01-01",
+      "url": "https://project.com/",
+      "roles": [
+        "Team Lead"
+      ],
+      "entity": "Entity",
+      "type": "application"
+    }]
+  }
