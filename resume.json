@@ -72,11 +72,11 @@
     ],
     "projects": [
       {
-        "name": "Video compression for 3d media",
+        "name": "Muslim Prayer Times App",
         "publisher": "Hooli",
-        "releaseDate": "2014",
+        "releaseDate": "2022",
         "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-        "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+        "summary": "Made an app to tell muslim prayer time based on an API"
       }
     ],
     "skills": [
